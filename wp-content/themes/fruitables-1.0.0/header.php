@@ -48,7 +48,7 @@
                     <div class="navbar-nav mx-auto">
                         <a href="<?php echo site_url('/'); ?>" class="nav-item nav-link active">Trang chủ</a>
                         <a href="shop.html" class="nav-item nav-link">Sản phẩm</a>
-                        <a href="aboutus.html" class="nav-item nav-link">Về chúng tôi</a>
+                        <a href="blog.html" class="nav-item nav-link">Blog</a>
                         <a href="contact.html" class="nav-item nav-link">Liên hệ</a>
                     </div>
                     <div class="d-flex m-3 me-0">
