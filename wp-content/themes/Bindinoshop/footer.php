@@ -55,7 +55,7 @@
 		</div>
 	</div>
 	<div class="copyright">
-		<p>Copyright © 2024 HKSHOP All Rights Reserved - Design by THIETKEWEB43.COM</p>
+		<p>Copyright © 2024 Group 1 - Design by bindino.id.vn</p>
 	</div>
 </footer>
 </div>
